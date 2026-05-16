@@ -48,7 +48,6 @@ Run the following command in your first Colab cell to ensure all dependencies ar
 
 ```
 
-*(Note: If Colab prompts you to restart the session after installation, please do so before running the main code).*
 
 ## 📂 Code Execution Flow
 
