@@ -1,4 +1,3 @@
-```markdown
 # 🧠 Agentic RAG Workflow with LangGraph & Gemini
 
 This repository demonstrates an advanced, stateful Retrieval-Augmented Generation (RAG) architecture built using **LangGraph**, **LangChain**, and **Google Gemini**. 
@@ -42,11 +41,9 @@ Do not hardcode your API key into the notebook. Use Colab's secure Secrets manag
 
 ### 3. Installation
 Run the following command in your first Colab cell to ensure all dependencies are resolved to their latest mutually compatible versions:
-
-```bash
 !pip install -q -U langchain langgraph langchain-google-genai langchain-community chromadb tiktoken sentence-transformers pydantic
 
-```
+
 
 
 ## 📂 Code Execution Flow
