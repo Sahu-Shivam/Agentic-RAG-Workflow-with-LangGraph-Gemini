@@ -75,10 +75,6 @@ LangGraph is a library used for building stateful, multi-actor applications with
 
 ```
 
----
-
-*Created as part of an advanced AI Engineering portfolio.*
-
 ```
 
 ```
