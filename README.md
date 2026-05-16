@@ -41,7 +41,7 @@ Do not hardcode your API key into the notebook. Use Colab's secure Secrets manag
 
 ### 3. Installation
 Run the following command in your first Colab cell to ensure all dependencies are resolved to their latest mutually compatible versions:
-```bash !pip install -q -U langchain langgraph langchain-google-genai langchain-community chromadb tiktoken sentence-transformers pydantic```
+```!pip install -q -U langchain langgraph langchain-google-genai langchain-community chromadb tiktoken sentence-transformers pydantic```
 
 
 
