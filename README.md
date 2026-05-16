@@ -1,9 +1,3 @@
-Here is the complete, updated `README.md` for your repository. It reflects the final architecture we built: an advanced, self-correcting Agentic RAG pipeline powered entirely by Google Gemini and optimized for Google Colab.
-
-You can copy this directly into your GitHub repository.
-
----
-
 ```markdown
 # 🧠 Agentic RAG Workflow with LangGraph & Gemini
 
